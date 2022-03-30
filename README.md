@@ -11,9 +11,9 @@ It has three main pages:
    
 ## Packages Used:
   
-  1. http (for news api)
-  2. webview_flutter (for display article as web view)
-  3. cached_network_image
+  1. http (for news api) (https://pub.dev/packages/http/versions/0.12.0+2)
+  2. webview_flutter (for display article as web view) (https://pub.dev/packages/webview_flutter/versions/0.3.22+1)
+  3. cached_network_image (https://pub.dev/packages/cached_network_image/versions/2.0.0)
   
   
 ## Features:
